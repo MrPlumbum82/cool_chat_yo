@@ -59,3 +59,8 @@ typings/
 
 # next.js build output
 .next
+
+# custom additions
+backend/node_modules/
+frontend/node_modules/
+
